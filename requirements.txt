@@ -1,5 +1,2 @@
-pip install streamlit
-pip install clarifai-grpc
-pip install pandas
-pip install pillow
-pip install clarifai
+clarifai-grpc
+clarifai
