@@ -1,2 +1,5 @@
 clarifai-grpc
 clarifai
+python-datamuse
+nltk
+numpy
