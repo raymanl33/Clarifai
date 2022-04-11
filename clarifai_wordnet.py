@@ -1,6 +1,5 @@
 import re
 from pprint import pprint
-from datamuse import Datamuse
 from nltk.corpus import wordnet as wn
 from json import dumps, loads
 
